@@ -167,10 +167,18 @@
             }
         },
         {
+            "Key": "3b57afbb-27dc-43fd-b9ad-3868ac1cce59",
+            "Value": {
+                "id": "a7706eb7-e027-4df5-bada-b2069986d9f0",
+                "resourcePath": "sprites\/fluffy_bunny\/fluffy_bunny.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f33f039-ccd9-4b9e-afbd-e6eda1f883ea",
             "Value": {
                 "id": "d6954dc2-db01-4213-aba9-f5bc7da01ae0",
-                "resourcePath": "sprites\\spr_AlixTest\\spr_AlixTest.yy",
+                "resourcePath": "sprites\/spr_AlixTest\/spr_AlixTest.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -522,7 +530,7 @@
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "0ee6b731-c88a-4429-8883-d74300c8f6bb",
-                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
             }
         },
@@ -594,7 +602,7 @@
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "b19e35cc-c9f9-4e37-90ed-cc6fdbb3cec7",
-                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
             }
         },

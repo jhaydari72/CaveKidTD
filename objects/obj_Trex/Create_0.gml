@@ -22,10 +22,8 @@ playerMaxEXP = 100;
 /// @DnDAction : YoYo Games.Paths.Start_Path
 /// @DnDVersion : 1.1
 /// @DnDHash : 7D3DF7B1
-/// @DnDArgument : "path" "path_dinosaur"
-/// @DnDArgument : "speed" "2"
-/// @DnDSaveInfo : "path" "95f57f16-820c-465c-9b86-edf760772bd6"
-path_start(path_dinosaur, 2, path_action_stop, false);
+/// @DnDArgument : "path" "dinoPath"
+path_start(dinoPath, 1, path_action_stop, false);
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1

@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "05edf7b1-79eb-4837-bf24-5b6aee6c6cd7",
+            "Value": {
+                "id": "c3b71f22-6108-4305-b066-230705c77418",
+                "resourcePath": "sprites\/spr_village_bg_game\/spr_village_bg_game.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "086de732-4dc7-413f-b9be-b3ceae02a47e",
             "Value": {
                 "id": "6b739ba3-1914-4ded-935c-654ed12c25da",
@@ -76,6 +84,22 @@
                 "id": "f5bb11f7-140a-4692-98de-aa5bb56103dd",
                 "resourcePath": "views\/1a7fb34b-4d4c-4408-be39-016be5c46cdc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1abd2b65-c691-4f43-86cd-6117f4593827",
+            "Value": {
+                "id": "78777c9d-d21b-4811-b3df-2527c676ae1b",
+                "resourcePath": "sprites\/sprite25\/sprite25.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1df32f80-1a8c-4493-beb6-0a472a652c85",
+            "Value": {
+                "id": "4d4df19f-2c03-4156-82df-1e8b6574cc5a",
+                "resourcePath": "sprites\/newCaveKid\/newCaveKid.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -135,6 +159,14 @@
             }
         },
         {
+            "Key": "35db0812-3337-4441-af45-eea9643feea5",
+            "Value": {
+                "id": "d07a227a-03c6-4b8a-b365-55ceea38cab0",
+                "resourcePath": "rooms\/YouLose\/YouLose.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4185dafb-15c0-4073-9da5-c2e07a92df36",
             "Value": {
                 "id": "5334b673-7630-4c91-8899-d4362a07c37c",
@@ -156,6 +188,14 @@
                 "id": "2ff5518a-d151-48c7-9be7-689b17ae7106",
                 "resourcePath": "objects\/obj_control\/obj_control.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "44c05894-3d60-479c-8444-0251bfd37304",
+            "Value": {
+                "id": "db3ca9cc-5dd1-4e6d-8229-1c61166a62d1",
+                "resourcePath": "sprites\/newBGSprite\/newBGSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -343,6 +383,14 @@
             }
         },
         {
+            "Key": "7e7f5860-1153-498e-a916-81f8a48e1b83",
+            "Value": {
+                "id": "249341c0-2a1b-481b-99b7-b84fb02a0bd6",
+                "resourcePath": "rooms\/YouWin\/YouWin.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "7f8e1f97-77f8-43eb-bfda-5f6c925b8438",
             "Value": {
                 "id": "a9d2e976-1ba4-48d3-bbd3-43d6d4599e3a",
@@ -364,14 +412,6 @@
                 "id": "6ecff8e7-ea5b-4be9-9234-443a6d1a580c",
                 "resourcePath": "sounds\/bugle\/bugle.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "83e638ea-6b88-4847-8bb6-c1f29cb494ae",
-            "Value": {
-                "id": "b21c9e9d-3d6b-44bd-99b3-4d1305919964",
-                "resourcePath": "sprites\/spr_bg\/spr_bg.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -471,22 +511,6 @@
             }
         },
         {
-            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
-            "Value": {
-                "id": "9124a7fd-fbc4-4931-ad18-1957c0b8995c",
-                "resourcePath": "options\/linux\/options_linux.yy",
-                "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
-            "Key": "af2bc2f1-6667-47ba-9a20-7587faf97e33",
-            "Value": {
-                "id": "7b1553f8-7a96-4738-be01-3a9d241828cc",
-                "resourcePath": "sprites\/spr_smg\/spr_smg.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "af6b104f-56ad-4b19-90dc-69970eb9f6f5",
             "Value": {
                 "id": "941f6426-62c3-4af8-b0fa-b0237b1b87df",
@@ -500,14 +524,6 @@
                 "id": "cca8baf4-8e5a-4c99-ba88-5ca9c3afed39",
                 "resourcePath": "scripts\/get_hover\/get_hover.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "b5409122-7fbf-486c-aa37-ce335110be0c",
-            "Value": {
-                "id": "bba2a5e7-80f5-4791-9274-8a2aa14ae442",
-                "resourcePath": "sprites\/spr_jsm\/spr_jsm.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -551,10 +567,18 @@
             }
         },
         {
+            "Key": "cc8eed88-5ca5-4907-bd2d-6e098d97e763",
+            "Value": {
+                "id": "48f0ad74-9574-4d8d-b630-ec389f22a879",
+                "resourcePath": "sprites\/victory\/victory.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
-                "id": "8650b6ea-3018-4fc7-9d3a-8c3a1c7337ec",
-                "resourcePath": "options\/windows\/options_windows.yy",
+                "id": "b19e35cc-c9f9-4e37-90ed-cc6fdbb3cec7",
+                "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
             }
         },
@@ -612,6 +636,14 @@
                 "id": "b42b0af1-feba-4342-8e1e-5351ea212087",
                 "resourcePath": "sounds\/explNoDebris\/explNoDebris.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ebb9b115-5d05-4c4b-bb9b-76b20a498b42",
+            "Value": {
+                "id": "6c444985-304c-4b84-b8e7-e0d61fc2a2bd",
+                "resourcePath": "paths\/dinoPath\/dinoPath.yy",
+                "resourceType": "GMPath"
             }
         },
         {

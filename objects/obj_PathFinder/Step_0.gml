@@ -30,5 +30,5 @@
 /// @DnDVersion : 1.1
 /// @DnDHash : 02A71DE5
 /// @DnDArgument : "path" "path"
-/// @DnDArgument : "speed" "3"
-path_start(path, 3, path_action_stop, false);
+/// @DnDArgument : "speed" "2"
+path_start(path, 2, path_action_stop, false);

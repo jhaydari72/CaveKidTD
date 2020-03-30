@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "3f33f039-ccd9-4b9e-afbd-e6eda1f883ea",
+            "Value": {
+                "id": "d6954dc2-db01-4213-aba9-f5bc7da01ae0",
+                "resourcePath": "sprites\\spr_AlixTest\\spr_AlixTest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4185dafb-15c0-4073-9da5-c2e07a92df36",
             "Value": {
                 "id": "5334b673-7630-4c91-8899-d4362a07c37c",
@@ -508,6 +516,14 @@
                 "id": "1b24af5b-f743-4580-bb58-56bfc8119849",
                 "resourcePath": "sprites\/spr_kid2\/spr_kid2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "0ee6b731-c88a-4429-8883-d74300c8f6bb",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {

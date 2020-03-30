@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "9124a7fd-fbc4-4931-ad18-1957c0b8995c",
+                "resourcePath": "options\/linux\/options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "af6b104f-56ad-4b19-90dc-69970eb9f6f5",
             "Value": {
                 "id": "941f6426-62c3-4af8-b0fa-b0237b1b87df",
@@ -484,6 +492,14 @@
                 "id": "cca8baf4-8e5a-4c99-ba88-5ca9c3afed39",
                 "resourcePath": "scripts\/get_hover\/get_hover.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b5409122-7fbf-486c-aa37-ce335110be0c",
+            "Value": {
+                "id": "bba2a5e7-80f5-4791-9274-8a2aa14ae442",
+                "resourcePath": "sprites\/sprite23\/sprite23.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -530,7 +546,7 @@
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "8650b6ea-3018-4fc7-9d3a-8c3a1c7337ec",
-                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
             }
         },

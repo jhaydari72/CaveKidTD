@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "20819b4c-2070-4aab-ae66-3b9f10477faf",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "af6b104f-56ad-4b19-90dc-69970eb9f6f5",
             "Value": {
                 "id": "941f6426-62c3-4af8-b0fa-b0237b1b87df",
@@ -540,6 +548,14 @@
                 "id": "f93b2fee-2056-4cdf-9231-c49264e09048",
                 "resourcePath": "rooms\/Village\/Village.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c03f4809-5273-473e-8594-c29662220495",
+            "Value": {
+                "id": "708ed1dd-3a93-4c33-9a25-17a1be9ca2f3",
+                "resourcePath": "sprites\\sprite27\\sprite27.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

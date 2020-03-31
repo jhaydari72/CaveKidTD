@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "09330a3c-aec6-49eb-890e-554a923c05c1",
-            "Value": {
-                "id": "c73068b9-0c0d-45ca-ad4c-a59d0c740c23",
-                "resourcePath": "sprites\/spr_rkm\/spr_rkm.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "09daa789-8f7a-4234-828b-59c0d95d0d0f",
             "Value": {
                 "id": "565e0a06-f269-48f2-80a9-903d56ced281",
@@ -199,6 +191,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "3a66bb5e-f149-47b9-8bcc-7cca651236f2",
             "Value": {
                 "id": "f37333e1-b3e4-4560-b194-61ba4532942f",
@@ -223,6 +216,8 @@
             }
         },
         {
+=======
+>>>>>>> 1ef0bed5fba2ef6829b70bf7a679d15ec770b880
             "Key": "4185dafb-15c0-4073-9da5-c2e07a92df36",
             "Value": {
                 "id": "5334b673-7630-4c91-8899-d4362a07c37c",
@@ -615,14 +610,6 @@
             }
         },
         {
-            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
-            "Value": {
-                "id": "0ee6b731-c88a-4429-8883-d74300c8f6bb",
-                "resourcePath": "options\/linux\/options_linux.yy",
-                "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
             "Key": "af6b104f-56ad-4b19-90dc-69970eb9f6f5",
             "Value": {
                 "id": "941f6426-62c3-4af8-b0fa-b0237b1b87df",
@@ -697,8 +684,8 @@
         {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
-                "id": "b19e35cc-c9f9-4e37-90ed-cc6fdbb3cec7",
-                "resourcePath": "options\/windows\/options_windows.yy",
+                "id": "535e82b8-fad4-4569-a3b2-b9fda7d8c27b",
+                "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
             }
         },

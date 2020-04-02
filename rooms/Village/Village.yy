@@ -16,10 +16,9 @@
     "IsDnD": true,
     "layers": [
         {
-            "__type": "GMRPathLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "dinoPath",
-            "id": "5208d18c-1a43-403b-96fe-f7712d7380ab",
-            "colour": { "Value": 4278190335 },
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Pickups",
+            "id": "119656d5-c55a-4f26-a0a2-41e2b6f00bff",
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
@@ -29,13 +28,15 @@
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
             "inheritVisibility": false,
+            "instances": [
+
+            ],
             "layers": [
 
             ],
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
-            "modelName": "GMRPathLayer",
-            "pathId": "ebb9b115-5d05-4c4b-bb9b-76b20a498b42",
+            "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
             "userdefined_depth": false,
             "visible": true
@@ -71,9 +72,10 @@
             "visible": true
         },
         {
-            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Pickups",
-            "id": "119656d5-c55a-4f26-a0a2-41e2b6f00bff",
+            "__type": "GMRPathLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "dinoPath",
+            "id": "5208d18c-1a43-403b-96fe-f7712d7380ab",
+            "colour": { "Value": 4278190335 },
             "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
@@ -83,15 +85,13 @@
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
             "inheritVisibility": false,
-            "instances": [
-
-            ],
             "layers": [
 
             ],
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
-            "modelName": "GMRInstanceLayer",
+            "modelName": "GMRPathLayer",
+            "pathId": "ebb9b115-5d05-4c4b-bb9b-76b20a498b42",
             "mvc": "1.0",
             "userdefined_depth": false,
             "visible": true

@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "610edb2d-cd0c-4298-b71e-2c42342b8109",
+            "Value": {
+                "id": "a5b9ecab-b2d3-40a9-b9c6-8d2b5805f112",
+                "resourcePath": "objects\\obj_meat_and_bones\\obj_meat_and_bones.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "616bf301-b75c-4cd1-9412-2d4f1b0cb13d",
             "Value": {
                 "id": "0fc1890e-8c9f-4d12-a826-e558a3fc5c7a",

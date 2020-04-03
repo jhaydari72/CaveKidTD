@@ -7,7 +7,7 @@ alarm_set(0, 300);
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 4C5BBE84
-/// @DnDArgument : "code" "global.map = ds_map_create();$(13_10)global.mapR = ds_map_create();$(13_10)global.towerId = -1;$(13_10)global.kId = -1;$(13_10)global.selected = false;$(13_10)contactKid = false;$(13_10)global.tId = -1;$(13_10)global.once = true;$(13_10)global.instanceId = -1;$(13_10)global.dinoNumber = 0;$(13_10)"
+/// @DnDArgument : "code" "global.map = ds_map_create();$(13_10)global.mapR = ds_map_create();$(13_10)global.towerId = -1;$(13_10)global.kId = -1;$(13_10)global.selected = false;$(13_10)contactKid = false;$(13_10)global.tId = -1;$(13_10)global.once = true;$(13_10)global.instanceId = -1;$(13_10)global.dinoNumber = 0;$(13_10)global.numberPassed = 0;"
 global.map = ds_map_create();
 global.mapR = ds_map_create();
 global.towerId = -1;
@@ -18,3 +18,4 @@ global.tId = -1;
 global.once = true;
 global.instanceId = -1;
 global.dinoNumber = 0;
+global.numberPassed = 0;

@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "3f072c11-5a53-4ebd-9c4b-dbe2c9947260",
+            "Value": {
+                "id": "338de78e-34e2-43a7-b238-914faa1eeb08",
+                "resourcePath": "objects\\obj_lives\\obj_lives.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3f33f039-ccd9-4b9e-afbd-e6eda1f883ea",
             "Value": {
                 "id": "d6954dc2-db01-4213-aba9-f5bc7da01ae0",
@@ -724,6 +732,14 @@
                 "id": "35710cbf-7aa6-4f77-b411-ec8bcd8e5f51",
                 "resourcePath": "scripts\/getKey\/getKey.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "dcca8ee5-2846-4b4c-bb3a-a275b8556e9d",
+            "Value": {
+                "id": "4a720358-ce6b-4a00-a628-dffcc8510064",
+                "resourcePath": "sprites\\Caveman_2\\Caveman_2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

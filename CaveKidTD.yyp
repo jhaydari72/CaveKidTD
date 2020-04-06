@@ -575,14 +575,6 @@
             }
         },
         {
-            "Key": "9d03fde0-4af1-4251-b0e6-7cd55787a11c",
-            "Value": {
-                "id": "60b1d93b-59ca-433e-9d05-00b914ef9c7f",
-                "resourcePath": "sprites\\spr_spinosaur\\spr_spinosaur.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9e40911a-2a0f-4067-805f-30a09ce0fd16",
             "Value": {
                 "id": "4d6bb0f9-832a-4599-97e9-6be1a027145d",

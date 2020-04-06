@@ -11,16 +11,50 @@
         "d0acaea2-6ef9-4c5e-8579-44a9e0716ccc",
         "800d3e37-98b3-4472-a3fe-5e7d391a6098",
         "98a20c00-af5e-4af1-ae0e-21c3cea22eab",
-        "4702d597-982e-47c0-8dc7-4a6b6b4cd493"
+        "4702d597-982e-47c0-8dc7-4a6b6b4cd493",
+        "099313df-50ca-4325-9583-70225dd9eca7",
+        "639e1961-45e5-4029-9c30-020ac82c4946"
     ],
     "IsDnD": true,
     "layers": [
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Instances",
+            "id": "3e7c2b97-f891-4ea7-a236-c10d43097a94",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_EBD6589","id": "099313df-50ca-4325-9583-70225dd9eca7","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_EBD6589.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_EBD6589","objId": "3f072c11-5a53-4ebd-9c4b-dbe2c9947260","properties": null,"rotation": 0,"scaleX": 0.3777778,"scaleY": 0.5111111,"mvc": "1.1","x": 704,"y": 288},
+{"name": "inst_7BB35DC6","id": "639e1961-45e5-4029-9c30-020ac82c4946","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7BB35DC6","objId": "3f072c11-5a53-4ebd-9c4b-dbe2c9947260","properties": null,"rotation": 0,"scaleX": 0.2888889,"scaleY": 0.4222222,"mvc": "1.1","x": 768,"y": 256},
+{"name": "inst_5BC9DD5B","id": "7300bec3-4400-4e6a-bb9e-281fd35a590a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5BC9DD5B","objId": "f96670da-b080-49d5-b085-785adc07046d","properties": null,"rotation": 17.13184,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 32,"y": 32},
+{"name": "inst_2523909F","id": "d0acaea2-6ef9-4c5e-8579-44a9e0716ccc","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2523909F","objId": "4463b47e-9a8b-4069-9270-3cd1ecdbcaaf","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 2720,"y": 448},
+{"name": "inst_1B2DA92A","id": "800d3e37-98b3-4472-a3fe-5e7d391a6098","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1B2DA92A","objId": "ca5210c8-fe80-48df-8191-a23d6f09bc1c","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 3776,"y": 992},
+{"name": "inst_53E286BC","id": "98a20c00-af5e-4af1-ae0e-21c3cea22eab","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_53E286BC","objId": "ee6802d6-3eb0-41d8-a701-8fe97560367f","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 3616,"y": 512},
+{"name": "inst_5AD99A3F","id": "4702d597-982e-47c0-8dc7-4a6b6b4cd493","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5AD99A3F","objId": "6abbd977-4b3a-44da-aaf0-5ff316fb7db4","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 4384,"y": 800}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
         {
             "__type": "GMRPathLayer_Model:#YoYoStudio.MVCFormat",
             "name": "pathTeradactyl",
             "id": "698e480b-123c-4e22-8db4-f47efa326b41",
             "colour": { "Value": 4278190335 },
-            "depth": 0,
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -45,7 +79,7 @@
             "name": "pathTrex",
             "id": "bdec2dcc-b4ad-47e4-b486-3f9efc421bcf",
             "colour": { "Value": 4294902015 },
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -61,36 +95,6 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRPathLayer",
             "pathId": "bcdc662a-93c7-413d-9abc-de5925354950",
-            "mvc": "1.0",
-            "userdefined_depth": false,
-            "visible": true
-        },
-        {
-            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
-            "id": "3e7c2b97-f891-4ea7-a236-c10d43097a94",
-            "depth": 200,
-            "grid_x": 32,
-            "grid_y": 32,
-            "hierarchyFrozen": false,
-            "hierarchyVisible": true,
-            "inheritLayerDepth": false,
-            "inheritLayerSettings": false,
-            "inheritSubLayers": false,
-            "inheritVisibility": false,
-            "instances": [
-{"name": "inst_5BC9DD5B","id": "7300bec3-4400-4e6a-bb9e-281fd35a590a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5BC9DD5B","objId": "f96670da-b080-49d5-b085-785adc07046d","properties": null,"rotation": 17.13184,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 32,"y": 32},
-{"name": "inst_2523909F","id": "d0acaea2-6ef9-4c5e-8579-44a9e0716ccc","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2523909F","objId": "4463b47e-9a8b-4069-9270-3cd1ecdbcaaf","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 2720,"y": 448},
-{"name": "inst_1B2DA92A","id": "800d3e37-98b3-4472-a3fe-5e7d391a6098","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1B2DA92A","objId": "ca5210c8-fe80-48df-8191-a23d6f09bc1c","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 3776,"y": 992},
-{"name": "inst_53E286BC","id": "98a20c00-af5e-4af1-ae0e-21c3cea22eab","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_53E286BC","objId": "ee6802d6-3eb0-41d8-a701-8fe97560367f","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 3616,"y": 512},
-{"name": "inst_5AD99A3F","id": "4702d597-982e-47c0-8dc7-4a6b6b4cd493","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5AD99A3F","objId": "6abbd977-4b3a-44da-aaf0-5ff316fb7db4","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 4384,"y": 800}
-            ],
-            "layers": [
-
-            ],
-            "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": false,
-            "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
             "userdefined_depth": false,
             "visible": true

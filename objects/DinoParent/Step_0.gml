@@ -55,10 +55,3 @@ if path_position == 1 {
 		instance_destroy(inst_EBD6589)
 	}
 }
-
-var l716A03CD_0 = false;
-l716A03CD_0 = instance_exists(noone);
-if(l716A03CD_0)
-{
-
-}

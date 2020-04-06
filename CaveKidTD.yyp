@@ -631,10 +631,26 @@
             }
         },
         {
+            "Key": "aa493ad5-4d0b-4977-b999-279cffa46604",
+            "Value": {
+                "id": "c7dafe40-f56a-49f7-880c-c5387d251f46",
+                "resourcePath": "objects\\obj_Rex\\obj_Rex.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "af6b104f-56ad-4b19-90dc-69970eb9f6f5",
             "Value": {
                 "id": "941f6426-62c3-4af8-b0fa-b0237b1b87df",
                 "resourcePath": "sprites\/spr_rhino\/spr_rhino.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b190b862-f14a-482e-be0f-806da64b3998",
+            "Value": {
+                "id": "84304b2e-82b2-47d4-9efa-e57275068eca",
+                "resourcePath": "sprites\\spr_Rex\\spr_Rex.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0079abb2-416f-4f9b-a08b-710cee6f7ac1",
+            "Value": {
+                "id": "6428f4fc-27f0-40c3-aef6-c808e9094f08",
+                "resourcePath": "sprites\\spr_acidspitter\\spr_acidspitter.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "05edf7b1-79eb-4837-bf24-5b6aee6c6cd7",
             "Value": {
                 "id": "c3b71f22-6108-4305-b066-230705c77418",
@@ -188,6 +196,14 @@
                 "id": "d07a227a-03c6-4b8a-b365-55ceea38cab0",
                 "resourcePath": "rooms\/YouLose\/YouLose.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "374bd1ab-deac-42da-92a7-b4679041d4eb",
+            "Value": {
+                "id": "45101405-053f-4fa3-86e6-2e51c71322f5",
+                "resourcePath": "sprites\\spr_ankylosaur\\spr_ankylosaur.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "5023c0a6-70f1-4bdd-b412-155697668141",
+            "Value": {
+                "id": "1ec07cf8-fcc6-48ef-86e7-778f36c13625",
+                "resourcePath": "sprites\\spr_catapult\\spr_catapult.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "52a6c3ed-04b1-45aa-9faf-314f2a48a393",
             "Value": {
                 "id": "97dd3082-02ba-4d11-ad72-52f4e596e381",

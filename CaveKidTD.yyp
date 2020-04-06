@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "62d6cbe3-4291-41ef-bade-eb75e52881fb",
+            "Value": {
+                "id": "dabf7d02-e8bf-4996-81db-b53cf9e38528",
+                "resourcePath": "objects\\obj_catapult\\obj_catapult.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "64199246-1be1-4db3-9a48-c263b5e65558",
             "Value": {
                 "id": "95261d4c-1648-4ad5-a172-dc5fb6472e32",

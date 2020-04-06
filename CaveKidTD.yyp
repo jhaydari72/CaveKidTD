@@ -695,6 +695,14 @@
             }
         },
         {
+            "Key": "bceb3b3f-52b7-4e8b-b4b0-0aaec4bb1f92",
+            "Value": {
+                "id": "b9680f05-ba9a-46c4-ba19-2a26833ada33",
+                "resourcePath": "sprites\\spr_spinosaur\\spr_spinosaur.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c74d99d1-f6b2-42b2-9e7e-23d3f6bab53b",
             "Value": {
                 "id": "821b255c-bad5-4717-8c27-6f461efd3442",
@@ -899,6 +907,14 @@
             "Value": {
                 "id": "b0077d6f-5975-4a5f-8162-b834b0677ec5",
                 "resourcePath": "objects\/obj_cameraGO\/obj_cameraGO.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fa6e20e0-5233-405f-874e-c438cca1fdba",
+            "Value": {
+                "id": "d68f0278-7b8f-4740-8d3f-e379980a9d32",
+                "resourcePath": "objects\\obj_spinosaur\\obj_spinosaur.yy",
                 "resourceType": "GMObject"
             }
         },

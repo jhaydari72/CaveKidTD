@@ -8,7 +8,7 @@
     "VTile": false,
     "bbox_bottom": 719,
     "bbox_left": 0,
-    "bbox_right": 1079,
+    "bbox_right": 1279,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "3d9340bd-3c8d-46f0-a7af-acfb2183e111",
+            "id": "d22132b0-c045-4ef6-8b45-31d42a790fdf",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "e4607014-74b3-4dba-97c6-68e60c4587e1",
             "compositeImage": {
-                "id": "713479cb-0f3c-4e2c-9b1a-bbae4551781e",
+                "id": "5bd02990-fce9-40e0-856d-28ba2b765e5e",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "3d9340bd-3c8d-46f0-a7af-acfb2183e111",
+                "FrameId": "d22132b0-c045-4ef6-8b45-31d42a790fdf",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "79d2be3c-5710-4a0d-b0c5-6c51f764b0ee",
+                    "id": "5955baf5-83a7-47e8-96f8-288ba16e7490",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "3d9340bd-3c8d-46f0-a7af-acfb2183e111",
-                    "LayerId": "507b62b6-0ebd-4e3c-9a53-9547eb3840e4"
+                    "FrameId": "d22132b0-c045-4ef6-8b45-31d42a790fdf",
+                    "LayerId": "0d3b6a27-78c6-4ac4-b9a2-a924046da9d5"
                 }
             ]
         }
@@ -43,7 +43,7 @@
     "height": 720,
     "layers": [
         {
-            "id": "507b62b6-0ebd-4e3c-9a53-9547eb3840e4",
+            "id": "0d3b6a27-78c6-4ac4-b9a2-a924046da9d5",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "e4607014-74b3-4dba-97c6-68e60c4587e1",
@@ -64,7 +64,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 1080,
+    "width": 1280,
     "xorig": 0,
     "yorig": 0
 }

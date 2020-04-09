@@ -9,7 +9,7 @@ switch(room){
 		);
 		draw_text(
 			room_width/2, 400, 
-			"PRESS M TO CONTINUE"
+			"PRESS ENTER TO CONTINUE"
 		);
 		draw_set_halign(fa_left);
 		break;

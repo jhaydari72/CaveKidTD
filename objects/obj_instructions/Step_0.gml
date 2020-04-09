@@ -8,7 +8,7 @@ if(keyboard_check_pressed(vk_enter)){
 			room_goto(Village);
 			break;
 			
-			case rm_gameover:
+			case YouWin:
 				game_restart();
 				break;
 	}

@@ -9,7 +9,7 @@ switch(room){
 		);
 		draw_text(
 			room_width/2, 400, 
-			"PRESS ENTER TO CONTINUE"
+			"PRESS M TO CONTINUE"
 		);
 		draw_set_halign(fa_left);
 		break;
@@ -47,13 +47,10 @@ The menu will allow you to pause the game, quit the game, or continue the game o
 			room_width/2, 150, "Game Over", 
 			3, 3, 0, c,c,c,c, 1
 		);
-		draw_text(
-			room_width/2, 250, 
-			"Final Score: " + string(score)
-		);
+		
 		draw_text(
 			room_width/2, 300, 
-			"Press Enter To Restart"
+			"Press M To Restart"
 		);
 		draw_set_halign(fa_left);
 		break;

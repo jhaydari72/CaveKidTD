@@ -25,14 +25,14 @@ switch(room){
 			room_width/2, 300, 
 			@"You are defending your village from hungry dinosaurs.
 			
-You do this by clicking the right mouse button in the empty field to build a tower.
+You do this by clicking the right mouse button in the empty field then left clicking one of the weapon icons to build a tower.
 Your towers will degrade over time so be careful.
 
 You will lose once all the cave children have been eaten by dinosaurs.
 You will win once you've completed all the waves.
 
 You can open the Menu by pressing the 'M' button on your keyboard.
-The menu will allow you to pause the game, quit the game, or continue the game once it's been paused.
+The menu will allow you to quit the game, or continue the game once you have lost.
 
 >> PRESS ENTER TO START <<
 "

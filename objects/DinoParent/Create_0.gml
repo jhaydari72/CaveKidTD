@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 025563B8
-/// @DnDArgument : "code" "image_xscale = 1;$(13_10)deathCounter = 0;$(13_10)//pick a random seed for less predictable number generation$(13_10)randomize();$(13_10)$(13_10)//initialize player stats$(13_10)playerLevel = 1;$(13_10)$(13_10)playerMaxHealth = 75 + (playerLevel * 25);$(13_10)playerHealth = playerMaxHealth;$(13_10)$(13_10)playerAttack = 5;$(13_10)playerDefense = 5;$(13_10)$(13_10)playerCurrentEXP = 0;$(13_10)playerMaxEXP = 100;$(13_10)$(13_10)var str = object_get_name(object_index)$(13_10)show_debug_message(str);$(13_10)$(13_10)if str == "obj_Trex" {$(13_10)	path_start(path3,1, path_action_stop, 1)$(13_10)	show_debug_message("created trex");$(13_10)}$(13_10)else if str == "obj_Teradactyl" {$(13_10)	path_start(path6,3,path_action_stop, 1)$(13_10)	show_debug_message("created teradactyl")$(13_10)}$(13_10)$(13_10)else if str == "obj_Rex" {$(13_10)	path_start(path5,1, path_action_stop, 1)$(13_10)	show_debug_message("created Rex");$(13_10)}$(13_10)$(13_10)else if str == "obj_spinosaur" {$(13_10)	path_start(path4,1, path_action_stop, 1)$(13_10)	show_debug_message("created spinosaur");$(13_10)}"
+/// @DnDArgument : "code" "image_xscale = 1;$(13_10)deathCounter = 0;$(13_10)//pick a random seed for less predictable number generation$(13_10)randomize();$(13_10)$(13_10)//initialize player stats$(13_10)playerLevel = 1;$(13_10)$(13_10)playerMaxHealth = 75 + (playerLevel * 25);$(13_10)playerHealth = playerMaxHealth;$(13_10)$(13_10)playerAttack = 5;$(13_10)playerDefense = 5;$(13_10)$(13_10)playerCurrentEXP = 0;$(13_10)playerMaxEXP = 100;$(13_10)$(13_10)var str = object_get_name(object_index)$(13_10)show_debug_message(str);$(13_10)$(13_10)if str == "obj_Trex" {$(13_10)	path_start(path3,1, path_action_stop, 1)$(13_10)	show_debug_message("created trex");$(13_10)}$(13_10)else if str == "obj_Teradactyl" {$(13_10)	path_start(path5,3,path_action_stop, 1)$(13_10)	show_debug_message("created teradactyl")$(13_10)}$(13_10)$(13_10)else if str == "obj_Rex" {$(13_10)	path_start(path3,1, path_action_stop, 1)$(13_10)	show_debug_message("created Rex");$(13_10)}$(13_10)$(13_10)else if str == "obj_spinosaur" {$(13_10)	path_start(path4,1, path_action_stop, 1)$(13_10)	show_debug_message("created spinosaur");$(13_10)}"
 image_xscale = 1;
 deathCounter = 0;
 //pick a random seed for less predictable number generation
@@ -27,12 +27,12 @@ if str == "obj_Trex" {
 	show_debug_message("created trex");
 }
 else if str == "obj_Teradactyl" {
-	path_start(path6,3,path_action_stop, 1)
+	path_start(path5,3,path_action_stop, 1)
 	show_debug_message("created teradactyl")
 }
 
 else if str == "obj_Rex" {
-	path_start(path5,1, path_action_stop, 1)
+	path_start(path3,1, path_action_stop, 1)
 	show_debug_message("created Rex");
 }
 

@@ -199,14 +199,6 @@
             }
         },
         {
-            "Key": "3abfad44-5622-4f9d-b9a2-8ab4b715e847",
-            "Value": {
-                "id": "7bc36251-849b-47e7-85fd-4f68c5378c33",
-                "resourcePath": "objects\\obj_ribcage\\obj_ribcage.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "3b57afbb-27dc-43fd-b9ad-3868ac1cce59",
             "Value": {
                 "id": "a7706eb7-e027-4df5-bada-b2069986d9f0",
@@ -607,14 +599,6 @@
             }
         },
         {
-            "Key": "9f53d0f1-b5f4-4ddc-b3a8-2d1866025253",
-            "Value": {
-                "id": "c1d0872e-19d8-453d-876c-04d7cfac0f2e",
-                "resourcePath": "objects\\obj_tree\\obj_tree.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a06bd8cf-b4c0-402e-8f3b-07f2d3b45366",
             "Value": {
                 "id": "2ceb2be3-b2a4-4569-97a6-30dabceb059d",
@@ -903,26 +887,10 @@
             }
         },
         {
-            "Key": "f054113e-7cde-49ba-8157-e11b0b7fa590",
-            "Value": {
-                "id": "a59fba6a-ec9c-49a5-a86d-80ddfd6405c0",
-                "resourcePath": "sprites\\spr_tree\\spr_tree.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f16f1310-78d2-438a-9bb0-c59d6657edac",
             "Value": {
                 "id": "db4c1277-a4a9-40e5-a10d-1d2d45816ada",
                 "resourcePath": "sprites\/spr_bone_tower\/spr_bone_tower.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f37d0952-ac28-449c-a526-de5a323fbfab",
-            "Value": {
-                "id": "4486b5e8-c641-41d2-96bf-cc4fed64c97e",
-                "resourcePath": "sprites\\spr_ribcage\\spr_ribcage.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -940,22 +908,6 @@
                 "id": "251ee250-0da0-41fc-a7c2-35c762b30d4e",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f565e3f8-7a9a-4200-8bc2-e6abbe2bf939",
-            "Value": {
-                "id": "d9a6704b-37ce-407d-b0b4-6487fe7919e1",
-                "resourcePath": "objects\\obj_hut\\obj_hut.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f90de42a-2e05-4518-a1c9-27aee53e1416",
-            "Value": {
-                "id": "397dc504-50df-4fa2-9d66-5cd588dc48b6",
-                "resourcePath": "sprites\\spr_hut\\spr_hut.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

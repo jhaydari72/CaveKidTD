@@ -1,8 +1,8 @@
 {
-    "id": "62d6cbe3-4291-41ef-bade-eb75e52881fb",
+    "id": "4eab7607-6579-4aaa-bee5-52af5e63abbd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_catapult",
+    "name": "obj_bonetower",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5023c0a6-70f1-4bdd-b412-155697668141",
+    "spriteId": "f16f1310-78d2-438a-9bb0-c59d6657edac",
     "visible": true
 }

@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "4654ba66-cde2-4f68-85c3-f3ad5b5c7542",
+            "Value": {
+                "id": "569a5741-6830-445c-9492-1c0b4d0ac632",
+                "resourcePath": "objects\\obj_spit_tower\\obj_spit_tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4751dacc-14c5-4e8d-8fe0-45af01d95f24",
             "Value": {
                 "id": "91b548a4-8de5-4c31-8a1d-29a1aef5bba7",
@@ -316,6 +324,14 @@
                 "id": "7d9597c5-fd80-455a-83b7-88cb4e889336",
                 "resourcePath": "sounds\/footsteps\/footsteps.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "4eab7607-6579-4aaa-bee5-52af5e63abbd",
+            "Value": {
+                "id": "623837c2-8e44-4857-a101-affbc38039bc",
+                "resourcePath": "objects\\obj_bonetower\\obj_bonetower.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -652,6 +668,14 @@
                 "id": "4d6bb0f9-832a-4599-97e9-6be1a027145d",
                 "resourcePath": "sprites\/spr_axe\/spr_axe.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9e541617-0f91-42ec-98a7-886d0d3dc50b",
+            "Value": {
+                "id": "5d3a0d01-45d2-47f1-a2d5-b5fd23f5e707",
+                "resourcePath": "objects\\obj_anklyo_tower\\obj_anklyo_tower.yy",
+                "resourceType": "GMObject"
             }
         },
         {

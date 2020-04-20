@@ -1,8 +1,8 @@
 {
-    "id": "62d6cbe3-4291-41ef-bade-eb75e52881fb",
+    "id": "4654ba66-cde2-4f68-85c3-f3ad5b5c7542",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_catapult",
+    "name": "obj_spit_tower",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5023c0a6-70f1-4bdd-b412-155697668141",
+    "spriteId": "0079abb2-416f-4f9b-a08b-710cee6f7ac1",
     "visible": true
 }

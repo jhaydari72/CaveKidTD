@@ -1,8 +1,8 @@
 {
-    "id": "62d6cbe3-4291-41ef-bade-eb75e52881fb",
+    "id": "9e541617-0f91-42ec-98a7-886d0d3dc50b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_catapult",
+    "name": "obj_anklyo_tower",
     "eventList": [
         
     ],

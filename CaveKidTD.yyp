@@ -34,7 +34,7 @@
             "Key": "0079abb2-416f-4f9b-a08b-710cee6f7ac1",
             "Value": {
                 "id": "6428f4fc-27f0-40c3-aef6-c808e9094f08",
-                "resourcePath": "sprites\\spr_acidspitter\\spr_acidspitter.yy",
+                "resourcePath": "sprites\/spr_acidspitter\/spr_acidspitter.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -90,7 +90,7 @@
             "Key": "1436c2f4-e1a2-448d-8f68-f97209f63295",
             "Value": {
                 "id": "d57b7292-a579-417f-8efa-45f45713cf6d",
-                "resourcePath": "sprites\\spr_hut\\spr_hut.yy",
+                "resourcePath": "sprites\/spr_hut\/spr_hut.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "1ebcc68e-ad70-42a5-8678-0f82574df7e4",
+            "Value": {
+                "id": "299a25c3-e429-4cb0-861e-3a4ecf2fc316",
+                "resourcePath": "objects\/obj_tree_3\/obj_tree_3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "23b88615-ca2f-46c9-8843-735c3c7cafc7",
             "Value": {
                 "id": "bd05089d-059d-45cb-ba23-21a755f61204",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "3333d61d-9453-4fa9-b2f5-3ff65c38892c",
+            "Value": {
+                "id": "96512300-5e52-4758-aad8-d27c56ad671a",
+                "resourcePath": "sprites\/spr_rock_2\/spr_rock_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "338c5a40-067d-4c61-a146-0d237a177bc8",
             "Value": {
                 "id": "cafe34be-d390-4376-b2bf-b5ab178c9ca3",
@@ -202,7 +218,7 @@
             "Key": "374bd1ab-deac-42da-92a7-b4679041d4eb",
             "Value": {
                 "id": "45101405-053f-4fa3-86e6-2e51c71322f5",
-                "resourcePath": "sprites\\spr_ankylosaur\\spr_ankylosaur.yy",
+                "resourcePath": "sprites\/spr_ankylosaur\/spr_ankylosaur.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -218,7 +234,7 @@
             "Key": "3f072c11-5a53-4ebd-9c4b-dbe2c9947260",
             "Value": {
                 "id": "338de78e-34e2-43a7-b238-914faa1eeb08",
-                "resourcePath": "objects\\obj_lives\\obj_lives.yy",
+                "resourcePath": "objects\/obj_lives\/obj_lives.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -227,6 +243,14 @@
             "Value": {
                 "id": "d6954dc2-db01-4213-aba9-f5bc7da01ae0",
                 "resourcePath": "sprites\/spr_AlixTest\/spr_AlixTest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "40a6bb1c-8aff-4e06-964b-df717b534a48",
+            "Value": {
+                "id": "8a46991c-eb97-47ab-95d4-25d9d281ee96",
+                "resourcePath": "sprites\/spr_tree_2\/spr_tree_2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -306,7 +330,7 @@
             "Key": "5023c0a6-70f1-4bdd-b412-155697668141",
             "Value": {
                 "id": "1ec07cf8-fcc6-48ef-86e7-778f36c13625",
-                "resourcePath": "sprites\\spr_catapult\\spr_catapult.yy",
+                "resourcePath": "sprites\/spr_catapult\/spr_catapult.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -316,6 +340,14 @@
                 "id": "97dd3082-02ba-4d11-ad72-52f4e596e381",
                 "resourcePath": "scripts\/getKeyX\/getKeyX.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "55368297-d78d-4d39-8ca8-19910a655b20",
+            "Value": {
+                "id": "673aabab-3a28-439d-aab6-b01849804f59",
+                "resourcePath": "sprites\/spr_tree_3\/spr_tree_3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -346,7 +378,7 @@
             "Key": "610edb2d-cd0c-4298-b71e-2c42342b8109",
             "Value": {
                 "id": "a5b9ecab-b2d3-40a9-b9c6-8d2b5805f112",
-                "resourcePath": "objects\\obj_meat_and_bones\\obj_meat_and_bones.yy",
+                "resourcePath": "objects\/obj_meat_and_bones\/obj_meat_and_bones.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -362,7 +394,7 @@
             "Key": "62d6cbe3-4291-41ef-bade-eb75e52881fb",
             "Value": {
                 "id": "dabf7d02-e8bf-4996-81db-b53cf9e38528",
-                "resourcePath": "objects\\obj_catapult\\obj_catapult.yy",
+                "resourcePath": "objects\/obj_catapult\/obj_catapult.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -402,7 +434,7 @@
             "Key": "69c51460-88f1-4c17-b3c9-8de45fb43759",
             "Value": {
                 "id": "69b83581-9af8-426c-b625-19d1fbf89af8",
-                "resourcePath": "rooms\\rm_instructions\\rm_instructions.yy",
+                "resourcePath": "rooms\/rm_instructions\/rm_instructions.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -567,10 +599,18 @@
             }
         },
         {
+            "Key": "8cd623cb-b4d3-4746-ba30-d03120e8db44",
+            "Value": {
+                "id": "8e1e1eb9-6243-41d7-a519-528c948c5775",
+                "resourcePath": "sprites\/spr_rock_1\/spr_rock_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8f9e9c6d-25c8-403c-b6f4-40c54f041fa2",
             "Value": {
                 "id": "9ea7c346-0b8a-4aca-8615-3ebabbbca1a6",
-                "resourcePath": "objects\\obj_tree\\obj_tree.yy",
+                "resourcePath": "objects\/obj_tree\/obj_tree.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -586,7 +626,7 @@
             "Key": "9762ab5b-01da-40b5-ad66-5cd49c32d392",
             "Value": {
                 "id": "1ceaea63-1371-4ba4-8982-961ff7ca9e1f",
-                "resourcePath": "objects\\obj_victory\\obj_victory.yy",
+                "resourcePath": "objects\/obj_victory\/obj_victory.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -658,7 +698,7 @@
             "Key": "aa493ad5-4d0b-4977-b999-279cffa46604",
             "Value": {
                 "id": "c7dafe40-f56a-49f7-880c-c5387d251f46",
-                "resourcePath": "objects\\obj_Rex\\obj_Rex.yy",
+                "resourcePath": "objects\/obj_Rex\/obj_Rex.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -666,7 +706,7 @@
             "Key": "aac28fe8-c5c0-4baf-8da2-522be89f82b4",
             "Value": {
                 "id": "c2bcbfda-d6b7-4354-aee5-a1d5d517ea11",
-                "resourcePath": "objects\\obj_instructions\\obj_instructions.yy",
+                "resourcePath": "objects\/obj_instructions\/obj_instructions.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -682,7 +722,7 @@
             "Key": "b190b862-f14a-482e-be0f-806da64b3998",
             "Value": {
                 "id": "84304b2e-82b2-47d4-9efa-e57275068eca",
-                "resourcePath": "sprites\\spr_Rex\\spr_Rex.yy",
+                "resourcePath": "sprites\/spr_Rex\/spr_Rex.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -730,7 +770,7 @@
             "Key": "bceb3b3f-52b7-4e8b-b4b0-0aaec4bb1f92",
             "Value": {
                 "id": "b9680f05-ba9a-46c4-ba19-2a26833ada33",
-                "resourcePath": "sprites\\spr_spinosaur\\spr_spinosaur.yy",
+                "resourcePath": "sprites\/spr_spinosaur\/spr_spinosaur.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -826,7 +866,7 @@
             "Key": "dcca8ee5-2846-4b4c-bb3a-a275b8556e9d",
             "Value": {
                 "id": "4a720358-ce6b-4a00-a628-dffcc8510064",
-                "resourcePath": "sprites\\Caveman_2\\Caveman_2.yy",
+                "resourcePath": "sprites\/Caveman_2\/Caveman_2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -836,6 +876,14 @@
                 "id": "5614e562-d086-450b-b958-ae53df2e8000",
                 "resourcePath": "sprites\/spr_rkm2\/spr_rkm2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e321e3f0-dc26-43a6-8ea3-40394a024910",
+            "Value": {
+                "id": "925ea55b-d88b-43a5-8175-c4f8564db1df",
+                "resourcePath": "objects\/obj_tree_2\/obj_tree_2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -882,7 +930,7 @@
             "Key": "ecbffb34-783d-4537-a87c-3cb356f087bb",
             "Value": {
                 "id": "9381d81a-7e24-4cb0-aef3-277802419bae",
-                "resourcePath": "sprites\\spr_tree\\spr_tree.yy",
+                "resourcePath": "sprites\/spr_tree\/spr_tree.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -892,6 +940,14 @@
                 "id": "19303992-0322-47e0-b94f-0cf45881f41a",
                 "resourcePath": "sprites\/spr_blue_circle\/spr_blue_circle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ee1d9a63-d72d-49fa-9628-f9902beec357",
+            "Value": {
+                "id": "f2f989bf-fb75-4b4d-9acd-eb2b1c63166e",
+                "resourcePath": "objects\/obj_rock_1\/obj_rock_1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -914,7 +970,7 @@
             "Key": "ef671fc2-e092-4ceb-9961-94be9d5e0f10",
             "Value": {
                 "id": "a67b874f-12e0-4497-b5c6-e78a27643e16",
-                "resourcePath": "objects\\obj_hut\\obj_hut.yy",
+                "resourcePath": "objects\/obj_hut\/obj_hut.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -962,7 +1018,15 @@
             "Key": "fa6e20e0-5233-405f-874e-c438cca1fdba",
             "Value": {
                 "id": "d68f0278-7b8f-4740-8d3f-e379980a9d32",
-                "resourcePath": "objects\\obj_spinosaur\\obj_spinosaur.yy",
+                "resourcePath": "objects\/obj_spinosaur\/obj_spinosaur.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fad60f81-f61f-4c3f-acc2-c4d1deaff164",
+            "Value": {
+                "id": "60f3e206-7f97-47c6-8dfa-168b3b1a37cf",
+                "resourcePath": "objects\/obj_rock_2\/obj_rock_2.yy",
                 "resourceType": "GMObject"
             }
         },

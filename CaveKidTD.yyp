@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "02aab23e-6c09-446c-89d7-477c9cbd2041",
+            "Value": {
+                "id": "02bc8d8b-ed07-4237-8481-07eec49313df",
+                "resourcePath": "sprites\\spr_hiderack\\spr_hiderack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "05edf7b1-79eb-4837-bf24-5b6aee6c6cd7",
             "Value": {
                 "id": "c3b71f22-6108-4305-b066-230705c77418",
@@ -268,6 +276,14 @@
                 "id": "d1f71a50-75ed-491c-af4e-4d937f7192b5",
                 "resourcePath": "sprites\/spr_skull_missile\/spr_skull_missile.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4450c704-a4e6-424d-9aa9-9fcae277cb20",
+            "Value": {
+                "id": "0e1011eb-6580-44b9-be94-96cd3a7177f1",
+                "resourcePath": "objects\\obj_hiderack\\obj_hiderack.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "165842b2-dd66-451c-819c-6446a00d816a",
+            "Value": {
+                "id": "e52cd1f5-bdf9-4112-8e64-d05775465e64",
+                "resourcePath": "sprites\\spr_bridge\\spr_bridge.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1769f7b4-6610-47ba-b366-f083ad0656d9",
             "Value": {
                 "id": "7565d292-35a6-40dc-8d02-795ee013c6fa",
@@ -172,6 +180,14 @@
                 "id": "521b437c-042d-4496-ae97-cf6658cf44e1",
                 "resourcePath": "views\/2d359788-2282-4e3c-bb86-02b95864553e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2f5d9747-54c0-40e3-9461-517406255303",
+            "Value": {
+                "id": "395ad796-7d7e-45ad-9773-5b7f240b5ce6",
+                "resourcePath": "objects\\obj_ribcage\\obj_ribcage.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -647,6 +663,22 @@
             }
         },
         {
+            "Key": "9151ecdf-e122-4ab9-8496-0ea7b71ed88a",
+            "Value": {
+                "id": "8a57bef7-add7-4e47-ba04-87ed2d416d4c",
+                "resourcePath": "sprites\\spr_logpile\\spr_logpile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "941d6beb-54e4-428e-a62b-ea0bf1e08b08",
+            "Value": {
+                "id": "d06c465d-7d75-4ad7-8abc-897a00df4f4a",
+                "resourcePath": "sprites\\spr_ribcage\\spr_ribcage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95f57f16-820c-465c-9b86-edf760772bd6",
             "Value": {
                 "id": "2c4f2367-5590-40fe-a16a-4207bb8b755f",
@@ -699,6 +731,22 @@
             "Value": {
                 "id": "2ceb2be3-b2a4-4569-97a6-30dabceb059d",
                 "resourcePath": "objects\/obj_Button\/obj_Button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a14960ce-380d-42ed-aa5a-aaad0167e5a9",
+            "Value": {
+                "id": "2a5a7621-a2d5-4c1a-af99-981bc958e5fb",
+                "resourcePath": "objects\\obj_logpile\\obj_logpile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a3a4cb2d-a926-401a-8391-9dc6400551d5",
+            "Value": {
+                "id": "263afa97-2705-4fbe-a8a1-0d625b281ddf",
+                "resourcePath": "objects\\obj_bridge\\obj_bridge.yy",
                 "resourceType": "GMObject"
             }
         },
